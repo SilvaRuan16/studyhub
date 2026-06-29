@@ -15,3 +15,10 @@ console.log(nvalue)
 
 console.log(typeof(svalue))
 console.log(svalue)
+
+const test: any = {
+    message: 'Test',
+    status: 200
+}
+
+console.log(test)
